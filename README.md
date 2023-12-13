@@ -1,9 +1,4 @@
 
-
-<h1>
-My Pytorch Projects :)
-</h1>
-
 <h2>
 1: GAN anime Face Generator
 </h2>
@@ -18,14 +13,4 @@ Here's a video showing some of the results in the early stages of training:
 
 
 https://user-images.githubusercontent.com/41340902/177703004-4fda0392-ecdd-46af-b137-1a672c72a441.mp4
-
-
-<h2>
-2: CIFAR10 CNN & Resnet
-</h2>
-
-
-<h2>
-3: Feedforward Neural Network for MNIST
-</h2>
 
